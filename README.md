@@ -13,5 +13,5 @@ English
 - I public the setup.py that I use for convert .py to .exe
 - Code is very simple
 - The executable is only compatible with Windows 10
-- If u want that the executable found u need download the directory "Ejecutable", if u download only Minesweeper.exe, this executable not found
+- If u want that the executable found u need download the directory "Ejecutable", if u download only Minesweeper.exe this executable not found
 
