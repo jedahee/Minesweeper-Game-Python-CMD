@@ -5,6 +5,7 @@ Español
 - También dejo el ejecutable, etse solo es compatible con Windows 10
 - El ejecutable solo es compatible con Windows 10
 - El código es muy sencillo
+- Para que el ejecutable funcione necesitas descargar todo el directorio llamado "Ejecutable" no solo el ejecutable
 
 English
 -------------
@@ -12,4 +13,5 @@ English
 - I public the setup.py that I use for convert .py to .exe
 - Code is very simple
 - The executable is only compatible with Windows 10
+- If u want that the executable found u need download the directory "Ejecutable", if u download only Minesweeper.exe, this executable not found
 
