@@ -2,4 +2,4 @@ import sys
 from cx_Freeze import setup, Executable
 setup(name = "setup",
       version = "0.1",
-      executables = [Executable("Minesweeper.py")])
+      executables = [Executable("main.py")])
