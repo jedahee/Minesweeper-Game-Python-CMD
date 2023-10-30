@@ -15,11 +15,13 @@ _The rules are the same as those of the original game._
 _The different options you can perform are:_
 
 
-_1. Select on a checkbox (indicating the row and column index)_
 
-_2. Check box with pump_
+_- Select on a checkbox (indicating the row and column index)_
 
-_3. Release already checked box_
+_- Check box with pump_
+
+_- Release already checked box_
+
 
 
 _To run the script:_
