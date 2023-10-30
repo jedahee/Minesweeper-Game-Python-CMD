@@ -10,13 +10,13 @@ _You need to clone the project in a local environment._
 
 ### How to use
 
-The rules are the same as those of the original game.
+_The rules are the same as those of the original game._
 
-The different options you can perform are:
+_The different options you can perform are:_
 
-1. Select on a checkbox (indicating the row and column index)
+_1. Select on a checkbox (indicating the row and column index)
 2. Check box with pump
-3. Release already checked box
+3. Release already checked box_
 
 _To run the script:_
 
